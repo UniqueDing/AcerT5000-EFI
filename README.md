@@ -1,4 +1,7 @@
 # AcerT5000-EFI
 
+## 2020-12-01 AcerT5000 osx11
+
 ## 2019-11-08 AcerT5000 osx10.15.1-win10.1909-deepin15.11
+
 ## 2019-08-06 AcerT5000 osx10.14.4-win10.1903-deepin15.11
